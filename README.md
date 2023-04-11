@@ -1,1 +1,1 @@
-<img src="chala-ja.gif" alt="Chala ja bhosdike" width= "700">
+<img src="Bhagam-bhag-aeyy-heyy.gif" alt="Chala ja bhosdike" width= "500">
