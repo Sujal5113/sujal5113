@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujal jaiswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujal5113" alt="sujal5113" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/thesujaljaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/thesujaljaiswal?logo=twitter&style=for-the-badge" alt="thesujaljaiswal" /></a> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
